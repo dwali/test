@@ -1,2 +1,3 @@
 # test
+# merge comment
 test
