@@ -2,4 +2,4 @@
 # merge comment
 test
 
-<iframe src="2li.cz"></iframe>
+[![Image title](https://picsum.photos/536/354)](https://picsum.photos/536/354)
